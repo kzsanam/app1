@@ -1,0 +1,63 @@
+[33mcommit 2db91897cc03ec076d26a92c5febcf2b30d343f0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 12faa2f 822941c
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 18:46:18 2023 +0200
+
+    Merge pull request #1 from kzsanam/feature-feature-readme
+    
+    update readme
+
+[33mcommit 822941c000a4c777bf9802a967860fd0c1794445[m[33m ([m[1;31morigin/feature-feature-readme[m[33m)[m
+Merge: a0db185 12faa2f
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 18:46:00 2023 +0200
+
+    Merge branch 'master' into feature-feature-readme
+
+[33mcommit a0db185c44362fd0acc4a72c40d40fff0b6ad121[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 18:20:20 2023 +0200
+
+    update readme
+
+[33mcommit 12faa2f9c9afcd371937b5c44ee971b42e1bb527[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 17:53:51 2023 +0200
+
+    Update Readme.md
+
+[33mcommit 3b30d892bb72615cd3f611e08eb7794b6071951c[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 17:52:16 2023 +0200
+
+    Update Readme.md
+
+[33mcommit d8666f192e71084efe2abda8c1107bb627edd067[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 17:51:28 2023 +0200
+
+    more description in Readme
+
+[33mcommit 79c9e5d3c0d1aaef671a38e932739df6f53b8b0f[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sun Apr 30 17:50:48 2023 +0200
+
+    more description in Readme
+
+[33mcommit 3dfd8cd1b133daa3dc7cb926c4c8b4fcd9ee1a41[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sat Apr 29 18:28:13 2023 +0200
+
+    add all the files for the experiment control
+
+[33mcommit 98bf5b44c794bb819c01e671044fd88e389b853c[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sat Apr 29 18:26:24 2023 +0200
+
+    add app.py
+
+[33mcommit 3913146282ad28b2176ef8a27b582e2ac814c89c[m
+Author: Alex <kzsanam@gmail.com>
+Date:   Sat Apr 29 17:50:46 2023 +0200
+
+    created readme
